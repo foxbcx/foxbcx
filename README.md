@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @foxbcx
+- 👀 I’m interested in ECU Development - specifically Mitsubishi
